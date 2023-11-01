@@ -1,6 +1,7 @@
 # APCAuth
 
 개발 URL : https://e3fe-118-36-223-138.ngrok-free.app/
+테스트 계정 id : 2, password: 2
 
 ---
 
